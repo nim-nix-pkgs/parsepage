@@ -9,9 +9,9 @@
   
   inputs.src-parsepage-master.flake = false;
   inputs.src-parsepage-master.ref   = "refs/heads/master";
-  inputs.src-parsepage-master.owner = "lurlo";
+  inputs.src-parsepage-master.owner = "thisago";
   inputs.src-parsepage-master.repo  = "parsepage";
-  inputs.src-parsepage-master.type  = "gitlab";
+  inputs.src-parsepage-master.type  = "github";
   
   inputs."github.com/thisago/fsafename".owner = "nim-nix-pkgs";
   inputs."github.com/thisago/fsafename".ref   = "master";
