@@ -14,7 +14,7 @@
     {
       "name": "parsepage",
       "version": "1.2.1",
-      "author": "Luciano Lorenzo",
+      "author": "Thiago Navarro",
       "desc": "Automatically extracts the data of sites",
       "license": "GPL-3.0-only",
       "skipDirs": [],
